@@ -1,1 +1,2 @@
-Second file 
+file 2 for ignore
+
